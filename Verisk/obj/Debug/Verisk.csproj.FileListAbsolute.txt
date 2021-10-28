@@ -1,0 +1,17 @@
+E:\Verisk Task2\Verisk\bin\Debug\Verisk.exe.config
+E:\Verisk Task2\Verisk\bin\Debug\Verisk.exe
+E:\Verisk Task2\Verisk\bin\Debug\Verisk.pdb
+E:\Verisk Task2\Verisk\obj\Debug\Verisk.csprojAssemblyReference.cache
+E:\Verisk Task2\Verisk\obj\Debug\Verisk.csproj.CoreCompileInputs.cache
+E:\Verisk Task2\Verisk\obj\Debug\Verisk.exe
+E:\Verisk Task2\Verisk\obj\Debug\Verisk.pdb
+E:\Verisk Task2\Verisk\bin\Debug\ChoETL.dll
+E:\Verisk Task2\Verisk\bin\Debug\ChoETL.JSON.dll
+E:\Verisk Task2\Verisk\bin\Debug\Newtonsoft.Json.dll
+E:\Verisk Task2\Verisk\bin\Debug\System.CodeDom.dll
+E:\Verisk Task2\Verisk\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Verisk Task2\Verisk\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Verisk Task2\Verisk\bin\Debug\System.Data.SqlClient.dll
+E:\Verisk Task2\Verisk\bin\Debug\Newtonsoft.Json.pdb
+E:\Verisk Task2\Verisk\bin\Debug\Newtonsoft.Json.xml
+E:\Verisk Task2\Verisk\obj\Debug\Verisk.csproj.CopyComplete
